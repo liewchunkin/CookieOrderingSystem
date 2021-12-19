@@ -1,0 +1,8 @@
+﻿  Liew Chun Kin.c
+c:\users\boy\source\repos\project9\project9\liew chun kin.c(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\boy\source\repos\project9\project9\liew chun kin.c(144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\boy\source\repos\project9\project9\liew chun kin.c(164): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\boy\source\repos\project9\project9\liew chun kin.c(268): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\boy\source\repos\project9\project9\liew chun kin.c(273): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\boy\source\repos\project9\project9\liew chun kin.c(319): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project9.vcxproj -> C:\Users\BOY\source\repos\Project9\Debug\Project9.exe
